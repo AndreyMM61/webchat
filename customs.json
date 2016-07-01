@@ -1,0 +1,11 @@
+{
+    "elements": {
+        "wicket:panel": {},
+        "wicket:extend": {}
+    },
+    "attributes": {
+        "wicket:id": {
+            "context": "div"
+        }
+    }
+}
